@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repositório Github](https://github.com/maykew/product-preview-card-component-main)
+- Live Site URL: [Github Pages](https://maykew.github.io/product-preview-card-component-main/) | [Vercel](https://product-preview-card-component-main-three-murex.vercel.app/)
 
 ## My process
 
